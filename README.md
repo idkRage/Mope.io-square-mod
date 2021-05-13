@@ -9,6 +9,6 @@ Go to: https://github.com/Wawy123/Mope.io-square-mod/blob/master/Mope-square.use
 
 A tampermoneky window will pop-up asking you to install the script.
 
-Click install and play mope.io!
+Click install and play mope.io! (press q to toggle the mod)
 
 To disable it just click on the tampermonkey icon(top right) and uncheck the "Mope.io square mod by Rage".
